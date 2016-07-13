@@ -26,6 +26,7 @@
 	body {
 		line-height: 1;
 		color: #1cb495;
+		
 	}
 
 	ol, ul {
@@ -1154,7 +1155,7 @@
 			margin-bottom: 0;
 		}
 
-	
+
 		@media screen and (max-width: 1680px) {
 
 			#footer {
