@@ -17,6 +17,7 @@
 		font: inherit;
 		vertical-align: baseline;
 		color: #1cb495;
+		font-style:oblique;
 	}
 
 	article, aside, details, figcaption, figure, footer, header, hgroup, menu, nav, section {
@@ -368,7 +369,7 @@
 	}
 
 	p {
-		margin: 0 0 2em 0;
+		margin: 0 0 3em 0;
 	}
 
 	h1, h2, h3, h4, h5, h6 {
@@ -473,12 +474,12 @@
 		text-align: center;
 	}
 
-	#header {margin-left:3%;}
+	#header {margin-left:0%;}
 
 	header p {
 		color: rgba(255, 255, 255, 0.5);
 		position: relative;
-		margin: 0 0 1.5em 0;
+		margin: 0 0 1.0em 0;
 	}
 
 	header h2 + p {
