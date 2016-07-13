@@ -556,17 +556,18 @@
 
 		ol li {
 			padding-left: 0.25em;
+			text-align: right;
 		}
 
 	ul {
 		list-style: disc;
 		margin: 0 0 2em 0;
 		padding-left: 1em;
-		text-align: right;
 	}
 
 		ul li {
 			padding-left: 0.5em;
+			
 		}
 
 		ul.icons {
@@ -1125,6 +1126,7 @@
 
 		#footer .icons {
 			margin: 0 0 0.5em 0;
+			text-align: right;
 		}
 
 		#footer .copyright {
@@ -1139,6 +1141,7 @@
 				line-height: 1em;
 				margin: 0 0 0 0.75em;
 				padding: 0 0 0 0.75em;
+				text-align: right;
 			}
 
 				#footer .copyright li:first-child {
@@ -1165,6 +1168,7 @@
 			#footer {
 				bottom: 3.5em;
 				left: 3.5em;
+				text-align: right!important;
 			}
 
 		}
@@ -1174,6 +1178,7 @@
 			#footer {
 				bottom: 2em;
 				left: 2em;
+				text-align: right;
 			}
 
 		}
@@ -1183,6 +1188,7 @@
 			#footer {
 				bottom: 1.25em;
 				left: 1.25em;
+				text-align: right!important;
 			}
 
 		}
@@ -1194,6 +1200,7 @@
 				left: auto;
 				margin: 1em 0 0 0;
 				position: relative;
+				text-align: right!important;
 			}
 
 		}
