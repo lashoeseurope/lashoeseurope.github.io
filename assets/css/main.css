@@ -1154,6 +1154,8 @@
 			margin-bottom: 0;
 		}
 
+		#mc_embed_signup #mc-embedded-subscribe-form input.mce_inline_error {background-color: green;}
+
 		@media screen and (max-width: 1680px) {
 
 			#footer {
