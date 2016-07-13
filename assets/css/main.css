@@ -840,7 +840,7 @@
 	input[type="password"],
 	input[type="email"],
 	select {
-		height: 2.75em;
+		height: 2.25em;
 	}
 
 	textarea {
@@ -963,7 +963,7 @@
 		-ms-transition: background-color 0.2s ease-in-out, color 0.2s ease-in-out, opacity 0.2s ease-in-out;
 		transition: background-color 0.2s ease-in-out, color 0.2s ease-in-out, opacity 0.2s ease-in-out;
 		background-color: #1cb495;
-		border-radius: 6px;
+		border-radius: 10px;
 		border: 0;
 		color: #ffffff !important;
 		cursor: pointer;
