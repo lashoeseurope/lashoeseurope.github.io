@@ -39,7 +39,7 @@
 
 					// Images (in the format of 'url': 'alignment').
 						images: {
-							'images/fabricacion_2.jpg': 'center',
+							'images/Fabricacion_2.jpg': 'center',
 							'images/slide14.jpg': 'center',
 							'images/men.jpg': 'center'
 						},
