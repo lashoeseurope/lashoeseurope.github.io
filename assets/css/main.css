@@ -1111,7 +1111,10 @@
 
 		}
 
-/* Footer Section */
+#mc_embed_signup {
+	margin-left: -3%;
+}
+/* Footer */
 
 	#footer {
 		-moz-transition: opacity 0.5s ease-in-out;
