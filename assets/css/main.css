@@ -1116,7 +1116,7 @@
 }
 
 .indicates-required {
-	text-align:left;
+	text-align:left!important;
 }
 /* Footer */
 
