@@ -1114,6 +1114,10 @@
 #mc_embed_signup {
 	margin-left: -3%;
 }
+
+.indicates-required {
+	text-align:left;
+}
 /* Footer */
 
 	#footer {
